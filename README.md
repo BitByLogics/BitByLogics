@@ -1,12 +1,15 @@
-<h1 align="center">Hey 👋, I'm BitByLogic</h1>
-<h3 align="center">A software developer who loves Overwatch & Minecraft!</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bitbylogics&label=Profile%20views&color=0e75b6&style=flat" alt="bitbylogics" /> </p>
+<h1>Hey 👋, I'm BitByLogic</h1>
+<h3>A software developer who loves Overwatch & Minecraft!</h3>
 
-- 🔭 I’m currently working on [APIByLogic](https://github.com/BitByLogics/APIByLogic)
+🔭 I’m currently working on [APIByLogic](https://github.com/BitByLogics/APIByLogic)
 
-- 📫 Contact me on Discord at **@BitByLogic**
+📫 Contact me on Discord at **@BitByLogic**
 
-- ⚡ Fun fact **I'm self-taught!**
+⚡ Fun fact **I'm self-taught!**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bitbylogics&show_icons=true&theme=dark&locale=en" alt="bitbylogics" /></p>
+<h2></h2>
+  <img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=BitByLogics&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OakLoaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
