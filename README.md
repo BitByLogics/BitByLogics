@@ -3,7 +3,7 @@
 <h1>Hey 👋, I'm BitByLogic</h1>
 <h3>A software developer who loves Overwatch & Minecraft!</h3>
 
-🔭 I’m currently working on [APIByLogic](https://github.com/BitByLogics/APIByLogic)
+🔭 I’m currently working on [Bit's ORM](https://github.com/BitByLogics/Bits-ORM)
 
 📫 Contact me on Discord at **@BitByLogic**
 
