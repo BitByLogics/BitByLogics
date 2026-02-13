@@ -9,7 +9,7 @@
 ---
 
   <h1>Current Project</h1>
-<img src="https://i.imgur.com/1uSmDyv.png" height="50"/>
+<img src="https://iili.io/qHEPSv1.md.png" height="50"/>
 <h4>A cozy island expansion experience.</h4>
 
 <img src="https://i.imgur.com/jGYKhBt.gif" alt="Tidebound Chunk Expansion">
