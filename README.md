@@ -12,7 +12,7 @@
 <img src="https://iili.io/qHEPSv1.md.png" height="50"/>
 <h4>A cozy island expansion experience.</h4>
 
-<img src="https://i.imgur.com/jGYKhBt.gif" alt="Tidebound Chunk Expansion">
+<img src="https://iili.io/q32tGDu.gif" alt="Tidebound Chunk Expansion">
 
 A cozy, progression driven experience focused on island expansion and player creativity.  
 Everything from crafting, decoration and automation is designed with depth and polish in mind!
