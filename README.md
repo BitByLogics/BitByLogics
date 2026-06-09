@@ -20,6 +20,8 @@
 A cozy, progression driven experience focused on island expansion and player creativity.  
 Everything from crafting, decoration and automation is designed with depth and polish in mind!
 
+<i>See a feature you like? Or a set of features you like? Reach out! I may be willing to license/sell portions of the codebase.</i>
+
 🔗 [Stay Up To Date On Discord →](https://discord.gg/Q5qucdXbxw)
 
 ---
