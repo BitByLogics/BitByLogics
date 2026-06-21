@@ -7,7 +7,7 @@
 <a href="mailto:bitbylogic@gmail.com">
   <img src="https://img.shields.io/badge/📧-Email%20Me-blue?style=for-the-badge" alt="Email Me">
 </a>
-<img src="https://img.shields.io/badge/Discord-%40BitByLogic%20(Private)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @BitByLogic">
+<img src="https://img.shields.io/badge/Discord-%40BitByLogic%20-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @BitByLogic">
 
 ---
 
