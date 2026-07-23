@@ -31,5 +31,8 @@ Everything from crafting, decoration and automation is designed with depth and p
 If you like what I build and want to support more projects like Tidebound:
 
 <a href="https://buymeacoffee.com/bitbylogic" target="_blank">
-  <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
+<a href="https://ko-fi.com/bitbylogic" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20Me%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Me on Ko-fi">
 </a>
