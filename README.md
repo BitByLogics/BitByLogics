@@ -2,7 +2,6 @@
   <h1>👋 Hey, I'm <b>BitByLogic</b></h1>
 <p>A developer focused on creating unique and interesting software, usually for Minecraft.</p>
 
-
 <img src="https://komarev.com/ghpvc/?username=bitbylogic&label=You're%20visitor%20number&color=1F51FF&style=for-the-badge" alt="profile views"/>
 <a href="mailto:bitbylogic@gmail.com">
   <img src="https://img.shields.io/badge/📧-Email%20Me-blue?style=for-the-badge" alt="Email Me">
@@ -17,12 +16,32 @@
 
 <img src="Tidebound.gif" alt="Tidebound Chunk Expansion">
 
-A cozy, progression driven experience focused on island expansion and player creativity.  
+A cozy, progression driven experience focused on island expansion and player creativity.
 Everything from crafting, decoration and automation is designed with depth and polish in mind!
 
 <i>See a feature you like? Or a set of features you like? Reach out! I may be willing to license/sell portions of the codebase.</i>
 
 🔗 [Stay Up To Date On Discord →](https://discord.gg/Q5qucdXbxw)
+
+---
+
+### 🛠️ Minecraft Plugin Commissions
+
+Looking for a custom plugin for your Minecraft server?
+
+I take commissions for everything from small quality-of-life features to custom systems, GUIs, progression mechanics, integrations, and more.
+
+**Full source code, setup assistance, revisions, and post-delivery support are included.**
+
+#### 🟢 Commission Availability: **0/3 Slots Taken**
+
+I only accept **3 commissions at a time** to make sure each project gets the attention it deserves.
+
+*Availability is updated daily based on currently open commission slots.*
+
+<a href="https://ko-fi.com/bitbylogic/commissions" target="_blank">
+  <img src="https://img.shields.io/badge/Commission%20Me%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Commission Me on Ko-fi">
+</a>
 
 ---
 
